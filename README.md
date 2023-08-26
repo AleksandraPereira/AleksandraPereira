@@ -35,7 +35,7 @@ My journey is just beginning, and I'm excited about what the future holds:
 
 ### Tecnologies 💻
 
-- Programming Lenguages
+- Programming Languages
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="55" heigth="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" heigth="55" />
 
