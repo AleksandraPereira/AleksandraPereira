@@ -1,4 +1,4 @@
-### Hello, World👋
+### Hello, World!👋
 I'm Aleksandra, and welcome to my github profile!
 
 ### About Me
