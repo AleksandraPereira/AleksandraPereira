@@ -48,6 +48,7 @@ My journey is just beginning, and I'm excited about what the future holds:
 <a href="https://instagram.com/def___init__function?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/aleksandra-pereira-066880260" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discord.com/der_ponyhof/1035699805458014258" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href = "mailto:email.academicoaleksandra@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
           
