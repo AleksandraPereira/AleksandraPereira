@@ -58,7 +58,6 @@ My journey is just beginning, and I'm excited about what the future holds:
 <a href="https://discord.com/der_ponyhof/1035699805458014258" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:email.academicoaleksandra@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
           
           
