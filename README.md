@@ -34,6 +34,10 @@ This is only the beginning of my saga. What lies ahead?
 
 🌱 Inspire other younglings to write their own stories in the stars of IT
 
+
+
+![Image](https://github.com/user-attachments/assets/ce826e5a-ffaf-4631-b6ac-1a292eaceb67)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div>
