@@ -13,7 +13,7 @@ I'm Aleksandra, and welcome to my github profile!
 
 
 ### My Jedi Journey 🚀
-Since setting off on this interstellar adventure through the tech universe, I’ve been captivated by how Information Technology shapes the future — much like the Holocron shaped the Jedi. Some of my missions include:
+Since setting off on this intergalactic adventure through the tech universe, I’ve been captivated by how Information Technology shapes the future — much like the Holocron shaped the Jedi. Some of my missions include:
 
 🧩 Programming Challenges: Cracking code puzzles like decoding Sith transmissions
 
